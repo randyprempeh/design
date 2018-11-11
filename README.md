@@ -1,2 +1,2 @@
-# routes
-routes rendering with handlerbars
+# design
+html and css
